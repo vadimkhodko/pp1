@@ -1,0 +1,10 @@
+{
+    "title": "The witcher",
+    "year": 1988,
+    "type": "fantasy",
+    "characters": [
+        "Geralt",
+        "Ciri"
+    ],
+    "cool": true
+}
